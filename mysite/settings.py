@@ -25,7 +25,7 @@ SECRET_KEY = 'ztt%8v)3av8zcp53vel%klfgc6!hgl2+cfziszfh2tt7%npgxb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://nameless-lake-88717.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['nameless-lake-88717.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
